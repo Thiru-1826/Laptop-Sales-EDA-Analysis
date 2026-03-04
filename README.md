@@ -1,4 +1,4 @@
-🔹 Project Workflow: From Data Scraping to Visualization :
+ Project Workflow: From Data Scraping to Visualization :
 
 • Collected raw data using web scraping techniques
 
